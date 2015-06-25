@@ -1,0 +1,1 @@
+Application for mining opinion and understanding the sentiment
